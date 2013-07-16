@@ -27,6 +27,19 @@ h1 {
   max-width: 100%;
 }
 
+#panel_img {
+  position:absolute;
+}
+.text {
+  color:white;
+  font-family: Helvetica;
+}
+
+img {
+  border:10px;
+
+}
+
 #sidebar {
   background: rgba(160, 160, 160, 0.2);
   float: right;
